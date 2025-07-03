@@ -19,9 +19,6 @@ I'm a Computer Science graduate from the University of Bath (First-class Honours
 ![](https://github-contributor-stats.vercel.app/api?username=ihussain0910&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ihussain0910&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 💻 Projects
 
@@ -44,5 +41,9 @@ I'm a Computer Science graduate from the University of Bath (First-class Honours
 *C++, Arduino*  
 - IR-based laser tripwire security system with light-intensity detection.
 
+---
 
+[![](https://visitcount.itsvg.in/api?id=ihussain0910&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
