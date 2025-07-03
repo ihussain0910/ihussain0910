@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ismail Hussain
+## 👋 Hi, I'm Ismail Hussain
 
 🎯 Recent First-Class Computer Science graduate from the University of Bath  
 💼 Actively seeking graduate roles in Software Engineering, Machine Learning, or Cloud Development  
