@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Ismail Hussain
 
-🎯 Recent First-Class Computer Science graduate from the University of Bath  
-💼 Actively seeking graduate roles in Software Engineering, Machine Learning, or Cloud Development  
-🚀 Passionate about solving real-world problems through technology  
-🥋 Former elite Taekwondo athlete turned developer — I bring discipline, focus, and resilience to every project  
-🌱 Currently exploring the intersection of AI and biomechanics through innovative side projects
+*🎯 Recent First-Class Computer Science graduate from the University of Bath  
+*💼 Actively seeking graduate roles in Software Engineering, Machine Learning, or Cloud Development  
+*🚀 Passionate about solving real-world problems through technology  
+*🥋 Former elite Taekwondo athlete turned developer — I bring discipline, focus, and resilience to every project  
+*🌱 Currently exploring the intersection of AI and biomechanics through innovative side projects
 ---
 
 ## 🌐 Socials:
